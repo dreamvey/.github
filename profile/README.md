@@ -6,12 +6,11 @@
 2024~2025
 
 # 已经加入 Github 的成员：
-jnvc583 （陈韵泽）<br>
-Sexitor（许梓浩）<br>
-
-# 尚未加入 GitHub 的成员：
-Passward（李钧辰）<br>
-Retaky（周宏宇）<br>
+@jnvc583 （陈韵泽）<br>
+@sexitor（许梓浩）<br>
+@jdleels（李钧宸）<br>
+@vlzhoufly（周宏宇）<br>
+@know-war（吴雨哲）<br>
 
 # 图标
 <img src="./card.png" />
